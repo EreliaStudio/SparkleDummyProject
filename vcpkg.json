@@ -2,7 +2,8 @@
     "version": "1.0.0",
     "dependencies": [
 		"glew",
-		"opengl"
+		"opengl",
+		"stb"
     ],
     "builtin-baseline": "ded9717095600a356b624cab03326e44764afed4"
 }
